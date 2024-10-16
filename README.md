@@ -13,7 +13,7 @@ tf apply --auto-approve
 
 - Aurora cluster does not inherit tags from the cluster when creating read replicas.
 - So I created this project.
-- I wish. nobody use my code. aws support new feature.
+- I hope my code is not used. I hope AWS adds new features.
 
 ## How it works
 
